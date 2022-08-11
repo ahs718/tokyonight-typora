@@ -2,9 +2,13 @@
 
 ![Tokyo Night Typora Theme Screenshot](screenshot.png)
 
+This theme was made using the [GitHub Night Theme](https://github.com/kinoute/typora-github-night-theme) as a template for the css file. 
+
+Additionally, the theme uses the [VSCode Tokyo Night Theme](https://github.com/enkia/tokyo-night-vscode-theme) color pallete as a reference.
+
 ## Installation
 
-1.  Download the [[latest stable release]]()
+1.  Download the [latest stable release](https://github.com/ahs718/TokyoNight-Typora/releases).
 2.  Launch Typora and open `Preferences` from the app menu.
 3.  Go to the `Appearance` tab, and choose `Open Theme Folder`.
 4.  Copy the `tokyo-night.css` file and the `tokyo-night` folder to your Typora theme folder.
